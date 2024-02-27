@@ -1,2 +1,2 @@
 # mit_answerapp
-เเอปถามตอบสร้างจาก mit inventor
+app ถามตอบสร้างจาก mit inventor
